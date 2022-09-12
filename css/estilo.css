@@ -122,4 +122,21 @@ img{
       list-style: none;
       padding: 20px 0;
    }
+   section{
+      margin-left: 20%;
+      padding: 2%;
+      width: 100%;
+   }
+   legend{
+      margin-left: -20%;
+   }
+   div{
+      width: 100%;
+   }
+   .m{
+      clear: left;
+   }
+   #rotape{
+      width: 1005;
+   }
 }
